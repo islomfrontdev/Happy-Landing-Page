@@ -1,0 +1,14 @@
+.card_img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  margin: 0 auto;
+}
+.card {
+  margin-bottom: 30px;
+  border-radius: 20px !important;
+  overflow: hidden;
+  .card_icon_img {
+    margin-top: -40px;
+  }
+}
